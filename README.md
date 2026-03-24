@@ -4,7 +4,7 @@
 This project analyzes key financial metrics such as revenue, expenses, and EBIT to evaluate overall business performance and identify trends.
 
 ## Dashboard Preview
-![Dashboard](dashboard KPI project.png)
+![Dashboard](dashboardKPIproject.png)
 
 ## Key Insights
 - Revenue shows variability across periods, indicating potential seasonality.
