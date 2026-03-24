@@ -13,5 +13,5 @@ This project analyzes key financial metrics such as revenue, expenses, and EBIT 
 - Performance gaps exist between actual and planned results.
 
 ## Files
-- Financial KPI project.xlsx
-- Financial KPI Dashboard Analysis PDF.pdf
+- Financial%20KPI%20project.xlsx
+- Financial%20KPI%20Dashboard%20Analysis%20PDF.pdf
